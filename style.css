@@ -9,7 +9,7 @@ html, body {
     /*background: linear-gradient(0.05turn, #b31942, #c05572, #dca4b3, #f1d9df, #d4deed, #93abca, #4770a2, #0a3161);*/
     background: linear-gradient(0.95turn, #310a61, #6e47a2, #ab93ca, #e1d4ed, #f1d9df, #dca4b3, #c05572, #b31942);
     /*color: #0A3161;/*#1b4543;*/
-    color: #ffffff;
+    color: #000000;
 }
 h1 {
       font-family: "Bowlby One", sans-serif;
@@ -18,7 +18,7 @@ h1 {
       margin: 0;
       padding: 0 2vw 0 2vw;
       text-align: center;
-      /*color: #edcaf8;*/
+      color: #edcaf8;
 }
 h2 {
     font-family: "Bona Nova", serif;
